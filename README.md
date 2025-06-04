@@ -8,7 +8,7 @@ I'm a tech enthusiast who enjoys working with Linux, open source software, and s
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=viraj-sh&icon=0&color=12)](https://visitcount.itsvg.in)
 
   ## Fuel for my projects
