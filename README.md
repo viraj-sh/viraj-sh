@@ -11,7 +11,7 @@ I'm a tech enthusiast who enjoys working with Linux, open source software, and s
 
 [![](https://visitcount.itsvg.in/api?id=viraj-sh&icon=0&color=12)](https://visitcount.itsvg.in)
 
-  ## Fuel for my projects
+  ## Fuel my projects
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/virajshirog) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/virajs18) 
 
   
