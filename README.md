@@ -1,51 +1,18 @@
-# Hi 👋, I'm Viraj Shirodkar
+# About Me:
+I'm a tech enthusiast who enjoys working with Linux, open source software, and self-hosted systems.<br>I like building simple projects, learning by doing, and exploring tools that give me more control over my setup.<br>Currently focused on improving my skills through hands-on development and real-world experimentation.
 
-****
 
-## 🔝 Most Used Languages
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viraj.sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-shirodkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:virajshirodkar45@gmail.com) 
 
-<!-- ⚠️ Important: Replace 'viraj-sh' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sh&layout=compact&langs_count=10&theme=default"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'viraj-sh' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-sh&theme=default&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-ff69b4?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-ff69b4?style=for-the-badge&logo=tailwind&logoColor=white" /> 
-
-### 🚀 DevOps
-
-<img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> 
-
-## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viraj-shirodkar/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/viraj-sh) 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="left">
-
-📧 **Email:** [virajshirodkar45@gmail.com](mailto:virajshirodkar45@gmail.com)
-
-</div>
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
-⭐️ From [Viraj Shirodkar](https://github.com/viraj-sh)
+[![](https://visitcount.itsvg.in/api?id=viraj-sh&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/viraj-sh/count.svg" alt="Visitor Count" />
-</div>
+  ## Fuel for my projects
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/virajshirog) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/virajs18) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
