@@ -11,9 +11,9 @@ Exploring Linux, open source, and self-hosting.<br>Building small projects to so
 ---
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api?username=viraj-sh&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="130" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-sh&theme=dark" alt="Streak Stats" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraj-sh&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="129" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viraj-sh&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="129" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-sh&theme=dark" alt="Streak Stats" height="129" />
 </div>
 
 #### Fuel my Projects
