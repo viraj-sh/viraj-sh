@@ -1,26 +1,26 @@
-# About Me:
-Exploring Linux, open source, and self-hosting.<br>Building small projects to solve real problems.<br>Self-hosting as freedom, not just convenience.
+| Project | Description |
+|---|---|
+| [TodoList](https://github.com/viraj-sh/todo) | Self-hosted Gruvbox-themed todo app built with FARM stack, featuring MCP server and LLM integration. |
+
+<br>
 
 
-## Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript) ![Nix](https://img.shields.io/badge/Nix-black?style=for-the-badge&logo=nixos)
 
+**Frameworks:**  
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
 
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/viraj.sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-shirodkar) 
+**Databases:**  
+![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 
+**Tools:**  
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx) ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama)
 
-## Github Stats:
+<!--## Github Stats: -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <!-- <img src="https://github-readme-stats-xi-one-96.vercel.app/api/top-langs/?username=viraj-sh&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165" /> -->
-  <img src="https://github-readme-stats-xi-one-96.vercel.app/api?username=viraj-sh&show_icons=true&theme=gruvbox&locale=en" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats-navy-two.vercel.app/?user=viraj-sh&theme=gruvbox" alt="Streak Stats" height="165" />
+<img src="https://github-readme-stats-xi-one-96.vercel.app/api?username=viraj-sh&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-streak-stats-navy-two.vercel.app/?user=viraj-sh&theme=github-dark" alt="Streak Stats" height="165" />
 </div>
 
-#### Fuel my Projects
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/virajsh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/virajs18)
- 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
