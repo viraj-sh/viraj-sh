@@ -1,6 +1,7 @@
 | Project | Description |
 |---|---|
 | [TodoList](https://github.com/viraj-sh/todo) | Self-hosted Gruvbox-themed todo app built with FARM stack, featuring MCP server and LLM integration. |
+| [pw-client](https://github.com/viraj-sh/pw-client) | Client for pw.live providing access to course materials with MCP server integration. |
 
 <br>
 
