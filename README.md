@@ -1,8 +1,9 @@
-| Project | Description |
-|---|---|
-| [TodoList](https://github.com/viraj-sh/todo) | Self-hosted Gruvbox-themed todo app built with FARM stack, featuring MCP server and LLM integration. |
-| [pw-client](https://github.com/viraj-sh/pw-client) | Client for pw.live providing access to course materials with MCP server integration. |
-| [mydylms-client](https://github.com/viraj-sh/mydylms-client) | Unofficial DY Patil LMS client for accessing and downloading course materials with MCP server integration. |
+| Project | Description | Live Demo |
+|---|---|---|
+| [TodoList](https://github.com/viraj-sh/todo) | Self-hosted Gruvbox-themed todo app built with FARM stack, featuring MCP server and LLM integration. | [Open](https://uitodo.netlify.app) |
+| [pw-client](https://github.com/viraj-sh/pw-client) | Client for pw.live providing access to course materials with MCP server integration. |  |
+| [mydylms-client](https://github.com/viraj-sh/mydylms-client) | Unofficial DY Patil LMS client for accessing and downloading course materials with MCP server integration. | |
+| [uniclare-client](https://github.com/viraj-sh/uniclare-client) | Unofficial Uniclare / Student Uni Portal client that reveals full ESE marks and hidden result fields. Includes client, MCP Server, and API documentation. | [Open](https://uniclare-client.netlify.app) |
 <br>
 
 
