@@ -17,7 +17,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
 
 **Tools:**  
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx) ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n) ![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker) ![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx) ![n8n](https://img.shields.io/badge/n8n-black?style=for-the-badge&logo=n8n)
+
+<!--![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama) -->
 
 <!--## Github Stats: -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
