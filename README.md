@@ -1,9 +1,9 @@
-| Project | Description | Live Demo |
+| Project | Description | Preview |
 |---|---|---|
-| [TodoList](https://github.com/viraj-sh/todo) | self-hosted todo management application. | [Open](https://uitodo.netlify.app) |
-| [pw-client](https://github.com/viraj-sh/pw-client) | client for accessing pw.live course materials. | |
-| [mydylms-client](https://github.com/viraj-sh/mydylms-client) | client for accessing DY Patil LMS resources. | |
-| [uniclare-client](https://github.com/viraj-sh/uniclare-client) | client for accessing Uniclare student results and data. | [Open](https://uniclare-client.netlify.app) |
+| [TodoList](https://github.com/viraj-sh/todo) | Self-hosted task management with workspaces, lists, and JWT/OAuth auth baked in | [Live Demo](https://uitodo.netlify.app/)
+| [pw-client](https://github.com/viraj-sh/pw-client) | Client for pw.live — MCP server, and frontend for notes, DPPs, quizzes, and DRM-free lecture downloads. | In Progress |
+| [mydylms-client](https://github.com/viraj-sh/mydylms-client) | DY Patil LMS client with instant document access, search, and an MCP server for LLM integrations | In Progress |
+| [uniclare-client](https://github.com/viraj-sh/uniclare-client) | Uniclare client that unlocks hidden ESE marks, grade points, and full result breakdowns | [Live Demo](https://uniclare-client.netlify.app/) |
 <br>
 
 
