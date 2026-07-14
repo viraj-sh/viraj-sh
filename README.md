@@ -2,7 +2,7 @@
 |---|---|---|
 | [TodoList](https://github.com/viraj-sh/todo) | Self-hosted task manager with JWT/OAuth auth | [Live Demo](https://uitodo.netlify.app) |
 | [pw-client](https://github.com/viraj-sh/pw-client) | PW client with MCP server and DRM-free downloads | In Progress |
-| [mydylms-client](https://github.com/viraj-sh/mydylms-client) | DY Patil LMS client with search and MCP server | [Live Demp](https://mydylms-client.vercel.app) |
+| [mydylms-client](https://github.com/viraj-sh/mydylms-client) | DY Patil LMS client with search and MCP server | [Live Demo](https://mydylms-client.vercel.app) |
 | [uniclare-client](https://github.com/viraj-sh/uniclare-client) | Uniclare client for detailed result insights | [Live Demo](https://uniclare-client.netlify.app) |
 <br>
 
