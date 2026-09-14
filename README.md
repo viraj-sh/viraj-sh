@@ -4,7 +4,7 @@
 | [pw-client](https://github.com/viraj-sh/pw-client) | PW client with MCP server and DRM-free downloads | In Progress |
 | [mydylms-client](https://github.com/viraj-sh/mydylms-client) | DY Patil LMS client with search and MCP server | [Live Demo](https://mydylms.netlify.app) |
 | [uniclare-client](https://github.com/viraj-sh/uniclare-client) | Uniclare client for detailed result insights | [Live Demo](https://uniclare-client.netlify.app) |
-| [crm](https://github.com/viraj-sh/supportflow-crm) | Full-stack customer support CRM | [Live Demo](https://supportflow-crm.up.railway.app) |
+| [supportflow-crm](https://github.com/viraj-sh/supportflow-crm) | Full-stack customer support CRM | [Live Demo](https://supportflow-crm.up.railway.app) |
 <br>
 
 
